@@ -1,7 +1,7 @@
 name: vrlizate_physics
 description: Render-independent, bounded rigid-body simulation for the VRlizate SDK.
-version: 0.1.0
-publish_to: none
+version: 1.0.0
+repository: https://github.com/Open-Neom/vrlizate_physics
 environment:
   sdk: ^3.10.8
 dependencies:
